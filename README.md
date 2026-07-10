@@ -41,7 +41,7 @@ Article: [Survey suggests Northeastern students feel safe but are unaware of uni
  
 ## Campus Study Spots Survey — Fall 2025
  
-Visualizations based on a student survey on preferred study spots on and around campus.
+Pie chart and map based on a student survey on preferred study spots on and around campus.
  
 Article: [Tell the news: what's your favorite study spot?](https://huntnewsnu.com/90430/campus/tell-the-news-whats-your-favorite-study-spot/)
  
