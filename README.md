@@ -47,7 +47,7 @@ Article: [Tell the news: what's your favorite study spot?](https://huntnewsnu.co
  
 ---
  
-## City Overcrowding — Fall 2025
+## Housing Vacancy Visuals - Fall 2025
  
 Bar chart showing the percent increase in housing vacancy rates across Greater Boston neighborhoods since 2024, with Symphony showing the largest increase at over 180%.
  
