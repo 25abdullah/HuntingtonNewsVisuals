@@ -12,13 +12,13 @@ Eight visualizations produced for articles covering Northeastern alumni competin
 - Uniform circular distribution of running vs. walking mileage since May 2025, where each dot represents one mile of activity
 - Fibonacci lattice of top four activities (run, walk, weight training, workout) since May 2025, where each dot represents one instance of the respective activity
 - Scatter plot of average heart rate vs. average speed across all runs, showing a positive correlation between speed and heart rate
-**Sarah Petersen and Malav Mehta** (article: [It's a historic race: three Northeastern track and field alumni take on 130th Boston Marathon](https://huntnewsnu.com/92836/sports/its-a-historic-race-three-northeastern-track-and-field-alumni-take-on-130th-boston-marathon/))
-- Line chart of Sarah Petersen's weekly running mileage over twelve weeks (Jan 26 – Apr 19, 2026), showing a peak in early March followed by a taper into race week
+(article: [It's a historic race: three Northeastern track and field alumni take on 130th Boston Marathon](https://huntnewsnu.com/92836/sports/its-a-historic-race-three-northeastern-track-and-field-alumni-take-on-130th-boston-marathon/))
+- Line chart of Sarah Petersen's weekly running mileage over twelve weeks (Jan 26 – Apr 19, 2026)
 - Scatter plot of Malav Mehta's average run cadence vs. average heart rate, showing a positive correlation between the two metrics
-- Bar chart of Malav Mehta's monthly running mileage from January through April 2026, peaking at over 200 miles in March
+- Bar chart of Malav Mehta's monthly running mileage
 **Alex Advani** (article: [This Boston Marathon, Alex Advani is running for the museum that raised him](https://huntnewsnu.com/92840/sports/this-boston-marathon-alex-advani-is-running-for-the-museum-that-raised-him/))
-- Line chart of weekly mileage leading up to the Florence Marathon (Sept 22 – Nov 30, 2025), showing an irregular training pattern with a spike race week
-- Line chart of weekly mileage leading up to the Boston Marathon (Feb 23 – Apr 19, 2026), showing a sharp taper after peaking in mid-March
+- Line chart of weekly mileage leading up to the Florence Marathon (Sept 22 – Nov 30, 2025)
+- Line chart of weekly mileage leading up to the Boston Marathon (Feb 23 – Apr 19, 2026)
 ---
  
 ## Campus Enrollment — Spring 2026
@@ -49,7 +49,7 @@ Article: [Tell the news: what's your favorite study spot?](https://huntnewsnu.co
  
 ## Housing Vacancy Visuals - Fall 2025
  
-Bar chart showing the percent increase in housing vacancy rates across Greater Boston neighborhoods since 2024, with Symphony showing the largest increase at over 180%.
+Bar chart showing the percent increase in housing vacancy rates across Greater Boston neighborhoods since 2024
  
 Article: [Several Boston neighborhoods report sudden uptick in apartment vacancies](https://huntnewsnu.com/89174/city/several-boston-neighborhoods-report-sudden-uptick-in-apartment-vacancies/)
  
